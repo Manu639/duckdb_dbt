@@ -1,0 +1,1 @@
+{"_invocation_id": "04967fc0-bb12-40c5-a5e7-1edb7f72bcc5", "linked": {"0": {"name": "source.duckdb_project.duckdb_sources.users", "type": "source", "succ": [1]}, "1": {"name": "model.duckdb_project.stg_duckdb__users", "type": "model"}}}

@@ -1,0 +1,9 @@
+name: 'duckdb_project'
+version: '1.0'
+config-version: 2
+
+profile: 'duckdb_profile'
+
+models:
+  duckdb_project:
+    +materialized: view
